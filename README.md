@@ -1,25 +1,25 @@
 # About Me
 
-## My Name is...
+BringITon
 
 ### Grade
 
-Enter your age
+16-18
 
 ### School
 
 Enter the school you attend
 
-### Hobbies
+Hobbies:
+
+Tennis, drama, lacrosse, yoga
 
 What do you like to do in your free time?
 
+Procrastinate
+
 ### Goals
 
-What do you want to do after you graduate?
-
-### Final Project
-
-Tell us a little about your final project.
+Develop Video Games
 
 ---
